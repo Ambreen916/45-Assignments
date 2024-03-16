@@ -1,9 +1,8 @@
 {
-  "name": "5th",
+  "name": "35th",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.21"
+    "@types/node": "^20.11.27"
   }
 }
