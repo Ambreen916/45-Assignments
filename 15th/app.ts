@@ -13,5 +13,6 @@ console.log( not_comingPerson + " will not come on tomorrow dinner.\n\n");
 //To printnew guest replace Mr. Zubair
  guest_list[2]= new_guest;
  for(let i=0; i <guest_list.length; i++){
-    console.log(`Dear `+ guest_list[i] + `\n You are cordially invited at dinner tomorrow. \n\n Thank You\n`);
+    console.log(`Dear `+ guest_list[i] + 
+    `\n You are cordially invited at dinner tomorrow. \n\n Thank You\n`);
  }

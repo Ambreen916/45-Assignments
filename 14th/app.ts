@@ -4,7 +4,7 @@ let guest_list= ["Mr. Bilal", "Mr. Umair", "Mr. Zubair"];
 
 // To Print guests list
 for(let i=0; i <guest_list.length; i++){
-    console.log(`Dear `+ guest_list[i] + `\n\n You are cordially invited at dinner tomorrow. \n\n Thank You\n`);
+    console.log(`Dear `+ guest_list[i] + `\n You are cordially invited at dinner tomorrow. \n\n Thank You\n`);
 }
 
 export{guest_list};
